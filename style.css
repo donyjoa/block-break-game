@@ -1,0 +1,9 @@
+body{
+  background-color: grey;
+}
+
+#canvas{
+  background-color: aliceblue;
+  display: block;
+  margin: 0, auto;
+}
